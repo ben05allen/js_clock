@@ -1,1 +1,3 @@
-# js_clock
+# clock
+
+Really simple clock
